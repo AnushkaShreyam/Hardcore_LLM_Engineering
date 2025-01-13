@@ -1,4 +1,4 @@
 # Hardcore_LLM_Engineering
 
-- Day1 Project : Conversation between existing LLMs.
+- Day1 Project : Interaction between existing LLMs.
 - Day2 Project : 
