@@ -5,4 +5,4 @@
 - Day3 Project : Langchain api
 - Day4 Project : Comparison Deepseek R1 and GPT O3 mini
 - Day5 Project : Advanced Emotional Analysis Model
-- Day6 Project :
+- Day6 Project : Combinative Iteration Model 
