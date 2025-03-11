@@ -7,4 +7,4 @@
 - Day5 Project : Advanced Emotional Analysis Model
 - Day6 Project : Combinative Iteration Model
 - Day7 Project : Premiere semantic search
-- Day8 Project : 
+- Day8 Project : Non-semantic viewpoint
