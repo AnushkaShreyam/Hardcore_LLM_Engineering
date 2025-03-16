@@ -8,4 +8,4 @@
 - Day6 Project : Combinative Iteration Model
 - Day7 Project : Premiere semantic search
 - Day8 Project : Analysing retrograding viewpoint
-- Day9 Project : 
+- Day9 Project : Risk Management 
